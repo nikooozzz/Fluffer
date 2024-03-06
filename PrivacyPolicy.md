@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-This Privacy Policy outlines how we collect, use, disclose, and safeguard your personal information when you use our furry Discord bot ("the Bot").
+This Privacy Policy outlines how we collect, use, disclose, and safeguard your personal information when you use our furry Discord bot ("Fluffer").
 
 **Information We Collect**
 
