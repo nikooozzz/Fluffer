@@ -1,6 +1,6 @@
 **Terms of Service**
 
-1. **Acceptance of Terms**: By utilizing the furry Discord bot ("the Bot"), you agree to adhere to these Terms of Service ("ToS") outlined herein. If you do not agree to these terms, refrain from using the Bot.
+1. **Acceptance of Terms**: By utilizing the furry Discord bot ("Fluffer"), you agree to adhere to these Terms of Service ("ToS") outlined herein. If you do not agree to these terms, refrain from using the Bot.
 
 2. **Bot Usage**: The Bot is provided solely for entertainment and community-building purposes within Discord servers. Any misuse or exploitation of the Bot for malicious intent is strictly prohibited.
 
@@ -8,7 +8,7 @@
 
 4. **User Conduct**: Users are responsible for their conduct while using the Bot. This includes but is not limited to respectful interaction with other users, refraining from spamming or flooding commands, and avoiding any form of harassment or hate speech.
 
-5. **Intellectual Property**: The Bot and its associated content, including but not limited to images, text, and audio, are protected by intellectual property laws. Users may not reproduce, distribute, or modify any part of the Bot without explicit permission.
+5. **Intellectual Property**: Fluffer and its associated content, including but not limited to images, text, and audio, are protected by intellectual property laws. Users may not reproduce, distribute, or modify any part of the Bot without explicit permission.
 
 6. **Privacy**: The Bot may collect and store user data for operational purposes, such as command execution and performance optimization. This data will not be shared with third parties unless required by law or with the user's consent.
 
@@ -18,6 +18,6 @@
 
 9. **Termination of Service**: The creators of the Bot reserve the right to suspend or terminate access to the Bot at any time, for any reason, without liability.
 
-10. **Governing Law**: These ToS shall be governed by and construed in accordance with the laws of [Jurisdiction], without regard to its conflict of law provisions.
+10. **Governing Law**: These ToS shall be governed by and construed in accordance with the laws of the Swedish state, without regard to its conflict of law provisions.
 
 By using the Bot, you acknowledge that you have read, understood, and agreed to abide by these Terms of Service.
